@@ -1,0 +1,959 @@
+#datepicker.fullcalenderdisplay .datepicker-inline table {
+	width: 100%;
+}
+.currentdiv {
+	line-height: 24px;
+}
+
+
+@media only screen and (max-width : 1290px) {
+.marginbottom20 .jobcontentbox {
+    min-height: 340px;
+}
+ }
+ 
+ 
+@media only screen and (max-width : 1200px) {
+.navbar-inverse .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 10px 5px !important;
+}
+.collapse.navbar-collapse.pull-right {
+    width: 56% !important;
+}
+.viewjobbox.pull-left.hideprint {
+    width: 35%;
+}
+span.pms {
+    margin-top: -5px;
+}	 
+ } 
+
+@media only screen and (max-width : 1024px) {
+.dropdown-menu {
+	font-size: 14px;
+}
+.currentdate.currentdiv > a {
+	border: 1px solid #cccccc;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 2px 10px;
+}
+.text-right a.delete .fa.fa-trash {
+	margin-top: 10px;
+}
+#datepicker.fullcalenderdisplay {
+	top: 50px;
+}
+.filterresultdata .col-lg-6 {
+	width: 100%;
+	margin-bottom: 40px;
+}
+.clearfix .col-lg-6, .filterform .col-lg-6 {
+	width: 100%;
+}
+.container {
+	width: 100%;
+}
+}
+@media only screen and (min-width: 991px) {
+.navbar-inverse .navbar-nav > li > a {
+	padding: 10px;
+}
+.collapse.navbar-collapse.pull-right {
+    width: 48% !important;
+}
+.addnewjobsection {
+	margin-left: 10px;
+	width: 12% !important;
+}
+.searchform.pull-right {
+    float: right;
+    width: 24%;
+}
+.pull-right ul li a i {
+	font-size: 22px;
+    margin-top: -7px;
+}
+.addjob {
+	float: left;
+	margin: 8px 8px 0 0;
+	width: 20%;
+}
+.addnewjobsection img {
+	display: block;
+	margin: 11px 9px 0 !important;
+	float: left;
+}
+.navbar-nav > li > a {
+	font-size: 12px;
+	padding: 11px 5px;
+}
+.searchform {
+	width: 34%;
+}
+.collapse.navbar-collapse.pull-right {
+	width: 55%;
+}
+.titlesection .users a {
+	font-size: 15px;
+}
+.equinamesection {
+	width: 100% !important;
+	margin: auto;
+}
+.yesterday {
+	width: 30%;
+}
+.text-right.tomorrow {
+	width: 30%;
+}
+ 
+}
+ @media (min-width:768px) and (max-width:991px) {
+.navbar-header.customheader {
+    margin-right: 5px;
+    width: 20%;
+}
+.collapse.navbar-collapse.pull-right {
+    width: 47% !important;
+}
+.addnewjobsection {
+	margin-left: 10px;
+	width: 12% !important;
+}
+.searchform.pull-right {
+    float: right;
+    width: 24%;
+}
+.pull-right ul li a i {
+	font-size: 22px !important;
+    margin-top: -7px !important;
+}
+.addnewjobsection {
+	float: left;
+	padding: 12px 0 0 3px;
+	text-align: center;
+	width: 16% !important;
+}
+.bell {
+	margin-top: 0px;
+}
+}
+
+@media only screen and (max-width : 858px) {
+.marginbottom20 .jobcontentbox {
+    min-height: 400px;
+}
+.viewjobbox.pull-left.hideprint {
+    width: 32%;
+}
+
+}
+
+
+@media only screen and (max-width : 768px) {
+.pull-right ul li a i {
+    font-size: 22px;
+    margin-top:0 !important;
+}
+
+}
+@media only screen and (max-width : 767px) {
+#notification_count {
+padding: 3px 7px 3px 7px;
+background: #cc0000;
+color: #ffffff;
+font-weight: bold;
+margin-left: -12px;
+border-radius: 9px;
+position: absolute;
+margin-top: -11px;
+font-size: 11px;
+}
+#equinotification_count {
+padding: 3px 7px 3px 7px;
+background: #8B008B;
+color: #ffffff;
+font-weight: bold;
+margin-left: -12px;
+border-radius: 9px;
+position: absolute;
+margin-top: -11px;
+font-size: 11px;
+}	 	 
+.addjob {
+	float: left;
+	margin: 8px 0px 0 0;
+	width: 20%;
+}
+.checkbox-inline.selectme {
+	margin: 10px 0;
+}
+.addnewjobsection img {
+	display: block;
+	margin: 11px 9px 0 !important;
+	float: left;
+}
+.addnewjobsection {
+	float: left;
+	padding: 12px 0 0 3px;
+	text-align: right;
+}
+.navbar-nav > li > a {
+	font-size: 12px;
+	padding: 11px 5px;
+}
+.searchform {
+	width: 30%;
+}
+.searchform .navbar-form .input-group-btn .btn.btn-default {
+	padding: 9px 5px;
+}
+.collapse.navbar-collapse.pull-right {
+	width: 55%;
+}
+.titlesection .users a {
+	font-size: 15px;
+}
+.marginbottom20 {
+	width: 100% !important;
+	height: auto;
+	margin: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.equinamesection {
+	width: 100% !important;
+	margin: auto;
+}
+.navbar-brand .img-responsive {
+	max-width: 90%;
+}
+.addjob .fa.fa-plus-square-o {
+	font-size: 34px;
+}
+.addnewjobsection img {
+	max-width: 28px;
+}
+.yesterday {
+	width: 20%;
+}
+.text-center {
+	width: 60%;
+	margin: auto;
+}
+.text-right.tomorrow {
+	width: 20%;
+}
+}
+@media only screen and (max-width:767px) {
+	 .equibell {
+    float: left;
+    margin-right: 0px;
+    margin-top: 10px;
+	margin-left:20px;
+}
+	 .requirepurchase{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.paymentterms{
+	margin-top:0px;
+}
+#notificationsBody, #equinotificationsBody {
+    padding: 8px !important;
+    min-height: 250px;
+    height: 250px;
+    overflow-y: scroll;
+}
+#notificationContainer {
+	background-color: #fff;
+	border: 1px solid rgba(100, 100, 100, 0.4);
+	position: absolute;
+	right: 4px;
+	top: 45px;
+	width: 300px;
+	display: none;
+	z-index:99999;
+}
+#notificationContainer::before {
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	border-color: transparent transparent white;
+	border-image: none;
+	border-style: solid;
+	border-width: 10px;
+	color: transparent;
+	content: "";
+	display: block;
+	float: right;
+	height: 0;
+	margin-top: -20px;
+	position: absolute;
+	right: 0;
+	text-align: right;
+	width: 0;
+}
+#equinotificationContainer {
+    background-color: #fff;
+    border: 1px solid rgba(100, 100, 100, 0.4);
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 45px;
+    width: 280px;
+	z-index:99999;
+}
+ #equinotificationContainer::before {
+    position: absolute;
+    right: 0;
+    text-align: right;
+    width: 0;
+}
+.dropdown-menu {
+	font-size: 12px;
+}
+.addnewjobsection {
+	display: inline-flex;
+}
+.form-group {
+	padding: 0px !important;
+}
+.titlesection {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.want {
+	width: 100% !important;
+}
+.collapse.navbar-collapse.pull-right {
+	width: 100%;
+}
+.currentdiv {
+	font-size: 16px;
+}
+.yesterday {
+	text-align: center;
+}
+.text-center {
+	text-align: center;
+}
+.tomorrow {
+	text-align: center;
+}
+.titlesection .equipment {
+	width: 50%;
+}
+.titlesection .users {
+	width: 50%;
+	float: right;
+}
+.navbar-header.customheader .navbar-brand {
+	margin: 10px 0 0 0px;
+	width: 75%;
+}
+.navbar-toggle {
+	margin-top: 18px;
+	margin-right: 0px;
+}
+.navbar-header {
+	padding-bottom: 5px !important;
+}
+.navbar-collapse {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.nav.navbar-nav {
+	margin: 0;
+}
+.searchform {
+	text-align: center;
+	width: 100%;
+}
+.searchform .navbar-form {
+	padding: 15px 10px;
+}
+.addnewjobsection {
+	float: left;
+	padding: 22px 0;
+	text-align: center;
+	width: 7%;
+}
+.titlesection .padding0 {
+	width: 50%;
+}
+.addusers.addplusicon.pull-right {
+	font-size: 14px;
+}
+.navbar-header.customheader .navbar-brand {
+	margin: 5px 0 0 5px;
+}
+.navbar-toggle {
+	float: right;
+}
+.addnewjobsection {
+	margin: 10px 0 0 0px;
+	text-align: right;
+	width: 21.5% !important;
+	float: right;
+}
+.bell {
+	margin-top: 10px;
+}
+.paddingright0 {
+	padding-left: 0 !important;
+}
+.paddingright0 label {
+	padding-top: 12px;
+}
+.paddingleft0 {
+	padding-right: 0 !important;
+}
+.titlesection padding0 a {
+	text-align: center;
+}
+.titlesection h1 {
+	font-size: 28px;
+	margin: 5px 0 0 !important;
+}
+.addnewuserform h1 {
+	text-align: center;
+	font-size: 22px;
+}
+.addplusicon a {
+	float: left;
+}
+.costomer {
+	margin-top: 20px;
+}
+.overflo {
+	overflow: auto;
+	width: 100%;
+}
+.equipm {
+	padding-top: 25px;
+}
+.addnewuserform label {
+	width: 50%;
+}
+.addnewjobsection {
+	padding: 0px;
+}
+.navbar-fixed-top .navbar-brand {
+	padding: 0px;
+}
+.customheader {
+	width: 75%;
+}
+.bell {
+	margin-left: 0;
+}
+.dataTables_length {
+	float: left;
+}
+.dataTables_filter {
+	float: right;
+}
+.copy {
+	margin: auto;
+}
+.currentdate.currentdiv > a {
+	border: 1px solid #cccccc;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 2px 10px;
+}
+.navbar-nav > li > a {
+	font-size: 14px;
+	padding: 11px 5px;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+	font-size: 14px;
+}
+.text-center {
+	width: 60%;
+}
+.billledleftbox {
+	transform: rotate(-43deg);
+	width: 30%;
+}
+.processedleftbox {
+	transform: rotate(-43deg);
+	width: 30%;
+}
+.addnewjobsection > a.addjob {
+	margin-right: 8px;
+}
+.equpiment {
+	margin-top: 9px;
+}
+}
+@media only screen and (max-width: 667px) {
+.filterform {
+	padding: 0 15px;
+}
+}
+ @media (min-width:570px) and (max-width:620px) {
+.navbar-toggle {
+	float: right;
+	margin-right: 30px;
+}
+}
+@media only screen and (max-width : 600px) {
+.delete {
+	width: 50%;
+}
+.marginbottom20 {
+	width: 100% !important;
+	height: auto;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.equinamesection {
+	width: 100% !important;
+	margin: auto;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 580px auto;
+}
+}
+ @media (min-width:569px) and (max-width:600px;
+) {
+.addnewjobsection {
+ margin: 10px 0 0;
+ text-align: right;
+ width: 20% !important;
+}
+}
+@media only screen and (max-width : 568px) {
+.addnewjobsection {
+	width: 26% !important;
+}
+.delete {
+	width: 50%;
+}
+.titlesection .users {
+	width: 50%;
+	float: right;
+	padding-right: 0px;
+}
+.currentdiv {
+	font-size: 12px;
+}
+.addnewjobsection {
+	margin: 8px 0px 0 !important;
+	float: right;
+}
+.titlesection h1 {
+	font-size: 26px;
+	margin: 5px 0 0 !important;
+}
+.titlesection .padding0 {
+	float: left;
+	width: 100%;
+}
+.customheader {
+	width: 75%;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 550px auto;
+}
+}
+@media only screen and (max-width : 480px) {
+	 .requirepurchase{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.paymentterms{
+	margin-top:0px;
+}
+.addnewjobsection {
+	width: 26% !important;
+}
+.addjob {
+	margin: 8px 1px 0 0;
+	width: 20%;
+}
+.marginbottom20 {
+	margin-top: 10px;
+}
+.navbar-toggle {
+	display: block;
+	float: right;
+}
+.navbar-fixed-top .navbar-brand {
+	padding: 5px 0px 0px 5px;
+}
+.marginbottom20 {
+	text-align: center;
+}
+.tomorrow {
+	margin-top: 2px;
+	text-align: center !important;
+}
+.users {
+	float: right;
+}
+.navbar-toggle {
+	margin: 10px -23px 0 0;
+	float: right;
+}
+.addnewjobsection {
+	margin: 0 0 0 10px;
+	text-align: right;
+}
+.navbar-header.customheader .navbar-brand {
+	float: left;
+}
+.navbar-toggle {
+	float: right;
+	margin: 16px 0 0;
+}
+.titlesection .padding0 {
+	width: 100%;
+	float: left;
+}
+.billledleftbox {
+	transform: rotate(-43deg);
+	width: 50%;
+}
+.processedleftbox {
+	transform: rotate(-43deg);
+	width: 50%;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 460px auto;
+}
+.yesterday {
+	width: 100%;
+}
+.text-center {
+	width: 100%;
+}
+.text-right.tomorrow {
+	width: 100%;
+}
+.yesterday .btn.btn-default.prev_day {
+	font-size: 16px;
+}
+.text-center .currentday.currentdiv {
+	font-size: 16px;
+	margin-top: 10px;
+}
+.currentdate.currentdiv > a {
+	font-size: 15px;
+}
+.tomorrow .btn.btn-default.next_day {
+	font-size: 16px;
+}
+.equibell {
+    float: left;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+/* Styles */
+}
+@media only screen and (max-width : 414px) {
+	 .equibell {
+    float: right;
+    margin-right: 11px;
+    margin-top: 0px;
+}
+.addnewjobsection {
+	text-align: right;
+	margin-left: 0;
+	right: 0 !important;
+	margin: 0 0 0 21px;
+	width: 68% !important;
+}
+.searchform .navbar-form {
+	box-sizing: border-box;
+	width: 80%;
+	margin: 0 auto;
+}
+.customheader {
+	width: 100%;
+}
+#notificationContainer {
+	right: -250%;
+	width: 300px;
+}
+#notificationContainer::before {
+	right: 78px;
+}
+#bs-example-navbar-collapse-1 {
+	overflow: visible;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 400px auto;
+}
+.navbar-collapse .addnewjobsection {
+	display: block;
+}
+.addjob {
+	margin: 0 4px 0 0;
+}
+.addnewjobsection img {
+	margin-top: 0 !important;
+}
+.addnewjobsection {
+	display: none;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+	color: #9d9d9d;
+	font-size: 14px;
+}
+.bell {
+	float: left;
+	margin-left: 7px;
+	margin-top: 0px;
+}
+.navbar-toggle {
+	margin: 20px -15px 0 0;
+	float: right;
+}
+.nav.navbar-nav {
+	padding-top: 50px;
+}
+.navbar-collapse .addnewjobsection {
+	display: block;
+	position: absolute;
+	top: 15px;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+	max-height: inherit !important;
+}
+.resultdatatablebox div.dataTables_wrapper div.dataTables_length select {
+	width: 70px;
+}
+.resultdata_col_4 a {
+	padding: 5px;
+	display: inline-block;
+	font-size: 12px;
+}
+}
+@media only screen and (max-width : 384px) {
+div.dataTables_wrapper div.dataTables_filter input {
+	width: 100px;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 370px auto;
+}
+.navbar-collapse .addnewjobsection {
+	display: block;
+}
+.addnewjobsection {
+	display: none;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+	color: #9d9d9d;
+	font-size: 14px;
+}
+#notificationContainer {
+	right: -250%;
+	width: 280px;
+}
+#notificationContainer::before {
+	right: 78px;
+}
+.addjob.desktop {
+    display: none;
+}
+}
+@media only screen and (max-width : 375px) {
+.resultdata_col_4 a {
+	padding: 3px;
+}
+.addnewjobsection {
+	margin-left: 0;
+	right: 0 !important;
+	width: 68% !important;
+}
+.titlesection .users {
+	width: 64%;
+	float: right;
+	padding-right: 0;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+	width: 100px;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+	width: 100px;
+}
+.copy {
+	margin: auto;
+	width: 100%;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 360px auto;
+}
+.navbar-collapse .addnewjobsection {
+	display: block;
+}
+.addnewjobsection {
+	display: none;
+}
+.navbar-toggle {
+	float: right;
+	margin: 20px -15px 0 0;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+	color: #9d9d9d;
+	font-size: 14px;
+}
+#notificationContainer {
+	right: -20px;
+	width: 280px;
+}
+#notificationContainer::before {
+	right: 24px;
+}
+#equinotificationContainer {
+    right: -25px;
+    top: 45px;
+    width: 280px;
+}
+ #equinotificationContainer::before {
+    position: absolute;
+    right: 11%;
+    text-align: right;
+    width: 0;
+}
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+.addnewjobsection {
+	text-align: right;
+	margin-left: 0;
+	right: 0 !important;
+	width: 75% !important;
+}
+.titlesection .users {
+	width: 60%;
+	float: right;
+	padding-right: 0;
+}
+.titlesection .equipment {
+	width: 45%;
+}
+.users {
+	width: 55%;
+	float: right;
+}
+.titlesection h1 {
+	font-size: 26px;
+	margin: 7px 0 0 !important;
+}
+.addusers.addplusicon.pull-right {
+	font-size: 12px;
+}
+div.dataTables_wrapper div.dataTables_length select {
+	width: 45px;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+	width: 80px;
+}
+.equipment {
+	width: 55%;
+}
+.navbar-header.customheader .navbar-brand {
+	margin: 5px 0 5px 5px;
+	width: 75%;
+}
+.navbar-toggle {
+	float: right;
+	margin: 15px -20px 0 0;
+}
+.marginbottom20 {
+	text-align: center;
+}
+.tomorrow {
+	margin-top: 10px;
+	text-align: center !important;
+	width: 100%;
+}
+.yesterday {
+	text-align: center;
+	width: 100%;
+	margin-bottom: 10px;
+}
+#container {
+	background: rgba(0, 0, 0, 0) url("images/watermarkbg1.jpg") no-repeat scroll center center / 300px auto;
+}
+] .text-right a.delete .fa.fa-trash {
+ margin-top: 10px;
+}
+.navbar-collapse .addnewjobsection {
+	display: block;
+}
+.addnewjobsection {
+	display: none;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+	color: #9d9d9d;
+	font-size: 14px;
+}
+.addjob {
+	margin: 0 10px 0 0;
+}
+.addnewjobsection img {
+	margin: 2px 9px 0 !important;
+}
+.searchform.tbc_search .navbar-form {
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding-left: 0;
+	width: 100%;
+}
+/* Styles */
+}
+@media print {
+@page {
+size: landscape
+}
+body {
+	padding-top: 0px;
+}
+.navbar-fixed-bottom, .navbar-fixed-top {
+	position: static;
+}
+.jobcontentbox > div {
+	font-size: 9px;
+}
+#container {
+	min-height: 400px;
+}
+.jobmenubottom {
+	display: none !important;
+}
+a[href]:after {
+	content: none !important;
+}
+#container:before {
+	content: url("images/watermarkbg1.jpg");
+	position: absolute;
+	z-index: -1;
+	background-position: center center;
+	left: 150px;
+}
+.marginbottom20 {
+	margin: inherit !important;
+}
+.notprintthisarea {
+	display: none;
+}
+}
+@media (min-width:415px) and (max-width:667px) {
+.addjob.desktop {
+    float: none;
+}
+}
+@media (min-width:320px) and (max-width:414px) {
+.addjob.desktop {
+    display: none;
+}
+}
