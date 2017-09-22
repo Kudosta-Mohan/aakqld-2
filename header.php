@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 <!--320-->
 <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
-<title>AAKQLD</title>
+<title>AAKQLD PHP</title>
 
 <!-- css include here -->
 <link rel="stylesheet" href="<?php echo home_base_url(); ?>css/bootstrap.min.css" type="text/css" />
